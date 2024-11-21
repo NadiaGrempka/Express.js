@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartfon XYZ",
+      "category": "Elektronika",
+      "quantity": 50,
+      "unitPrice": 299.99,
+      "dateAdded": "2024-04-15",
+      "supplier": "TechSupply Co."
+    },
+    {
+      "id": 2,
+      "name": "Bulka",
+      "category": "Zywnosc",
+      "quantity": 50,
+      "unitPrice": 5,
+      "dateAdded": "2024-04-15",
+      "supplier": "TechSupply Co."
+    },
+    {
+      "id": 3,
+      "name": "Chleb razowy",
+      "category": "Odzież",
+      "quantity": 200,
+      "unitPrice": 3.49,
+      "dateAdded": "2024-10-20",
+      "supplier": "BakeryFresh"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Blender01",
+      "category": "Elektronika",
+      "quantity": 25,
+      "unitPrice": 300,
+      "dateAdded": "2024-04-20",
+      "supplier": "TechSupply Co."
+    }
+  ]
+}
